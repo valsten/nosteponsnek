@@ -1,0 +1,14 @@
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\bin\Release\SnakeWPF.exe.config
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\bin\Release\SnakeWPF.exe
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\bin\Release\SnakeWPF.pdb
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\Game.baml
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\MainWindow.baml
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\Game.g.cs
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\MainWindow.g.cs
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\App.g.cs
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF_MarkupCompile.cache
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF.g.resources
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF.Properties.Resources.resources
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF.csproj.GenerateResource.Cache
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF.exe
+C:\Users\salesa\Source\Repos\Olio\SnakeWPF\obj\Release\SnakeWPF.pdb
